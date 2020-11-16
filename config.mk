@@ -1,6 +1,5 @@
 PRODUCT_PACKAGES += \
-    Abstruct \
-    CameraGo \
+    Via \
+    v4_2.7.2.1 \
     GalleryGo \
-    GContacts \
     RemovePackages
